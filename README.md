@@ -33,6 +33,6 @@ Implemented Fail2Ban, disabled SSH, and validated protection by repeating the at
 ---
 
 ## 📁 Folder Structure
-Each phase has its own report, screenshots, and config/scripts if needed.
+Each phase has its own report, screenshots.
 
 ---
